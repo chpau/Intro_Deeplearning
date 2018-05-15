@@ -1,9 +1,10 @@
 # Intro_Deeplearning
 
 ## Download this Repository
-Download the whole "Clone or Download" and "Download Zip"
 
-### 1 -Create a new project
+Download the whole repository by going to "Clone or Download" > "Download Zip"
+
+### 1 - Create a new project
 
 ### 2 - upload the data 'snail_experiment_10000.csv'
 
